@@ -1,4 +1,9 @@
 html {
   font-weight: bold; }
 
+a {
+  font-weight: normal; }
+  a:hover {
+    font-weight: bold; }
+
 /*# sourceMappingURL=main.css.map */

@@ -1,3 +1,10 @@
 html {
 	font-weight: bold;
 }
+
+a {
+	font-weight: normal;
+	&:hover {
+		font-weight: bold;
+	}
+}
